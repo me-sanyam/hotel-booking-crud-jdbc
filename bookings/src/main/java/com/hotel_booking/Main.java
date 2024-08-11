@@ -10,9 +10,9 @@ import java.sql.Connection;
 
 public class Main {
 
-    private static String url = "jdbc:mysql://localhost:3306/hotel_booking";
-    private static String username = "root";
-    private static String password = "sanyam123";
+    private static String url = "";
+    private static String username = "";
+    private static String password = "";
 
     public static void main(String[] args) {
         try {
